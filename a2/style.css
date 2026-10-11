@@ -20,7 +20,7 @@ body {
 }
 
 header {
-    background-color: #2b6cb0;
+    background-color: #385676;
     color: #ffffff;
     text-align: center;
     padding: 3rem 1rem;
@@ -60,7 +60,7 @@ main {
 }
 
 .profile-info h2 {
-    color: #2b6cb0;
+    color: #2c5a8b;
     margin-bottom: 1rem;
     font-size: 1.75rem;
 }
